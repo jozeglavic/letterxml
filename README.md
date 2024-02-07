@@ -1,3 +1,4 @@
 # letterxml
-#Letter TEI.xml files and corepsodning .jpegs 
+
+Letter TEI.xml files and corepsonding .jpegs for digital letter edition project. 
  
