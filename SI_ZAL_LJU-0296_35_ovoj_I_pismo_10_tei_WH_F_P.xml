@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="2320" lry="2886"
+		<surface start="#I1L10P1"  xml:id="facs_1" ulx="0" uly="0" lrx="2320" lry="2886"
 			corresp="LJU296_35_I_P10_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P10_001.jpg" xml:id="IMAGE.1" width="2320px" height="2886px"/>
 			<zone ulx="167" uly="71" lrx="2288" lry="2465" rendition="TextRegion" xml:id="facs_1_r1">
@@ -106,7 +106,7 @@
 					xml:id="facs_1_r1l22"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="4621" lry="2879"
+		<surface start="#I1L10P2"  xml:id="facs_2" ulx="0" uly="0" lrx="4621" lry="2879"
 			corresp="LJU296_35_I_P10_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P10_002.jpg" xml:id="IMAGE.2" width="4621px" height="2879px"/>
 			<zone ulx="191" uly="408" lrx="2310" lry="2453" rendition="TextRegion"
@@ -187,7 +187,7 @@
 					xml:id="facs_2_r2l22"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="2315" lry="2889"
+		<surface start="#I1L10P3"  xml:id="facs_3" ulx="0" uly="0" lrx="2315" lry="2889"
 			corresp="LJU296_35_I_P10_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P10_003.jpg" xml:id="IMAGE.3" width="2315px" height="2889px"/>
 			<zone ulx="210" uly="299" lrx="2247" lry="1089" rendition="TextRegion"
@@ -210,7 +210,7 @@
 		<body>
 			<div type="letter">
 				<div type="letter">
-					<pb facs="#facs_1" xml:id="LJU296_35_I_P10_001.jpg" n="1"/>
+					<pb facs="#facs_1" xml:id="I1L10P1" n="1"/>
 					<opener>
 						<salute rend="center"><lb facs="#facs_1_r1l2" n="N001"/><hi rend="italic"
 								>Meine innigst geliebte Josephine!</hi></salute>
@@ -242,7 +242,7 @@
 							n="N018"/>die Gefahr war wirklich groß, ja größer als unsere <lb
 							facs="#facs_1_r1l22" n="N019"/>Vorstellung, meine liebe gute Schwester
 						war gestern </p>
-					<pb facs="#facs_2" xml:id="LJU296_35_I_P10_002.jpg" n="2"/>
+					<pb facs="#facs_2" xml:id="I1L10P2" n="2"/>
 					<p facs="#facs_2_r1">
 						<lb facs="#facs_2_r1l1" n="N001"/>um <time when="18:00:00">6. Uhr
 							Nachmittag</time>, von einem Knaben entbunden, das <lb
@@ -313,7 +313,7 @@
 							Dein <lb facs="#facs_2_r2l22" n="N020"/>Verzeichen Sie meiner zittrenden
 							Schrift. </p>
 					</postscript>
-					<pb facs="#facs_3" xml:id="LJU296_35_I_P10_003.jpg" n="3"/>
+					<pb facs="#facs_3" xml:id="I1L10P3" n="3"/>
 					<postscript>
 						<p facs="#facs_3_r1">
 							<lb facs="#facs_3_r1l1" n="N001"/>Ich bitte, mir bey einer <lb

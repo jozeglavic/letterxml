@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1539" lry="2504"
+		<surface start="#I1L30P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1539" lry="2504"
 			corresp="LJU296_35_I_P30_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P30_001.jpg" xml:id="IMAGE.1" width="1539px" height="2504px"/>
 			<zone ulx="20" uly="899" lrx="48" lry="1053" rendition="TextRegion" xml:id="facs_1_r1"> </zone>
@@ -106,7 +106,7 @@
 					xml:id="facs_1_r3l19"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3060" lry="2500"
+		<surface start="#I1L30P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3060" lry="2500"
 			corresp="LJU296_35_I_P30_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P30_002.jpg" xml:id="IMAGE.2" width="3060px" height="2500px"/>
 			<zone ulx="86" uly="236" lrx="1529" lry="2327" rendition="TextRegion" xml:id="facs_2_r1">
@@ -192,7 +192,7 @@
 					xml:id="facs_2_r2l25"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="1542" lry="2506"
+		<surface start="#I1L30P3"  xml:id="facs_3" ulx="0" uly="0" lrx="1542" lry="2506"
 			corresp="LJU296_35_I_P30_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P30_003.jpg" xml:id="IMAGE.3" width="1542px" height="2506px"/>
 			<zone ulx="32" uly="145" lrx="1526" lry="2504" rendition="TextRegion" xml:id="facs_3_r1">
@@ -243,7 +243,7 @@
 	<text>
 		<body>
 			<div type="letter">
-				<pb facs="#facs_1" xml:id="LJU296_35_I_P30_001.jpg" n="1"/>
+				<pb facs="#facs_1" xml:id="I1L30P1" n="1"/>
 				<opener>
 					<dateline rend="right"><lb facs="#facs_1_r3l3" n="N001"/><placeName
 							ref="placeName.xml#fuzine">Kaltenbrun</placeName> den 3. Octobre <lb
@@ -268,7 +268,7 @@
 						>Sontage</hi> war es mir nicht möglich, <lb facs="#facs_1_r3l18" n="N016"
 					/>mich nur einigermassen zu erheitern, ob <lb facs="#facs_1_r3l19" n="N017"
 					/>wohl ich es meinen guten Ältern zu </p>
-				<pb facs="#facs_2" xml:id="LJU296_35_I_P30_002.jpg" n="2"/>
+				<pb facs="#facs_2" xml:id="I1L30P2" n="2"/>
 				<p facs="#facs_2_r1">
 					<lb facs="#facs_2_r1l1" n="N001"/>liebe sehr gerne gethan hätte, wir sind <lb
 						facs="#facs_2_r1l2" n="N002"/>nach <hi rend="italic"><placeName
@@ -349,7 +349,7 @@
 						svečane obleke in dekoracije, npr. pentlje.</note>, wenn er nicht zu theuer
 						<lb facs="#facs_2_r2l25" n="N022"/>ist, die <hi rend="italic"><persName
 							ref="persName.xml#luise">Macovitz erzählte</persName></hi> mir, man </p>
-				<pb facs="#facs_3" xml:id="LJU296_35_I_P30_003.jpg" n="3"/>
+				<pb facs="#facs_3" xml:id="I1L30P3" n="3"/>
 				<p facs="#facs_3_r1">
 					<lb facs="#facs_3_r1l1" n="N001"/>bekäme eine Gattung, von den nicht <lb
 						facs="#facs_3_r1l2" n="N002"/>ganz breiten zwar, um 4 <choice>

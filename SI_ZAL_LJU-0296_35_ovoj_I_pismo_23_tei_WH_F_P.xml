@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1555" lry="2509"
+		<surface start="#I1L23P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1555" lry="2509"
 			corresp="LJU296_35_I_P23_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P23_001.jpg" xml:id="IMAGE.1" width="1555px" height="2509px"/>
 			<zone ulx="172" uly="53" lrx="1496" lry="2142" rendition="TextRegion" xml:id="facs_1_r1">
@@ -97,7 +97,7 @@
 					xml:id="facs_1_r1l15"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3064" lry="2523"
+		<surface start="#I1L23P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3064" lry="2523"
 			corresp="LJU296_35_I_P23_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P23_002.jpg" xml:id="IMAGE.2" width="3064px" height="2523px"/>
 			<zone ulx="146" uly="894" lrx="1473" lry="2153" rendition="TextRegion"
@@ -167,7 +167,7 @@
 	<text>
 		<body>
 			<div type="letter">
-				<pb facs="#facs_1" xml:id="LJU296_35_I_P23_001.jpg" n="1"/>
+				<pb facs="#facs_1" xml:id="I1L23P1" n="1"/>
 				<opener rend="center">
 					<lb facs="#facs_1_r1l2" n="N001"/><hi rend="italic">Mein holder Engel! <lb
 							facs="#facs_1_r1l3" n="N002"/>Meine herzliche <persName
@@ -189,7 +189,7 @@
 					schon <lb facs="#facs_1_r1l14" n="N012"/>balde die Morgenröthe, alles nach
 					dunkle wird <lb facs="#facs_1_r1l15" n="N013"/>klar, u reine ja die reinste
 					Liebe soll </p>
-				<pb facs="#facs_2" xml:id="LJU296_35_I_P23_002.jpg" n="2"/>
+				<pb facs="#facs_2" xml:id="I1L23P2" n="2"/>
 				<p facs="#facs_2_r1">
 					<lb facs="#facs_2_r1l1" n="N001"/>immerwährend unsern Bund befestigen. <lb
 						facs="#facs_2_r1l2" n="N002"/>Ach liebe <hi rend="italic"><persName

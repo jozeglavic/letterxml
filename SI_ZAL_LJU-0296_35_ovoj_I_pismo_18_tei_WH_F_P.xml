@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1533" lry="2492"
+		<surface start="#I1L18P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1533" lry="2492"
 			corresp="LJU296_35_I_P18_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P18_001.jpg" xml:id="IMAGE.1" width="1533px" height="2492px"/>
 			<zone ulx="66" uly="1687" lrx="79" lry="1838" rendition="TextRegion" xml:id="facs_1_r1"> </zone>
@@ -102,7 +102,7 @@
 					xml:id="facs_1_r2l18"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3060" lry="2508"
+		<surface start="#I1L18P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3060" lry="2508"
 			corresp="LJU296_35_I_P18_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P18_002.jpg" xml:id="IMAGE.2" width="3060px" height="2508px"/>
 			<zone ulx="63" uly="799" lrx="90" lry="955" rendition="TextRegion" xml:id="facs_2_r1"> </zone>
@@ -157,7 +157,7 @@
 					xml:id="facs_2_r3l8"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="1542" lry="2498"
+		<surface start="#I1L18P3"  xml:id="facs_3" ulx="0" uly="0" lrx="1542" lry="2498"
 			corresp="LJU296_35_I_P18_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P18_003.jpg" xml:id="IMAGE.3" width="1542px" height="2498px"/>
 			<zone ulx="64" uly="1147" lrx="144" lry="1298" rendition="TextRegion" xml:id="facs_3_r1"> </zone>
@@ -171,7 +171,7 @@
 		<body>
 			<div type="letter">
 				<div type="letter">
-					<pb facs="#facs_1" xml:id="LJU296_35_I_P18_001.jpg" n="1"/>
+					<pb facs="#facs_1" xml:id="I1L18P1" n="1"/>
 					<opener>
 						<lb facs="#facs_1_r2l1" n="N001"/><dateline rend="right"><date
 								when="1825-09-09">Am 9. September.</date></dateline>
@@ -199,7 +199,7 @@
 						so <lb facs="#facs_1_r2l17" n="N014"/>ist es mein Wunsch, daß Sie sich, wenn
 							<lb facs="#facs_1_r2l18" n="N015"/>es auf eine schöne Art seyn kann,
 						davon </p>
-					<pb facs="#facs_2" xml:id="LJU296_35_I_P18_002.jpg" n="2"/>
+					<pb facs="#facs_2" xml:id="I1L18P2" n="2"/>
 					<p facs="#facs_2_r2">
 						<lb facs="#facs_2_r2l1" n="N001"/>loß zu machen suchten, — sollte es Ihnen
 							<lb facs="#facs_2_r2l2" n="N002"/>aber Vergnügen machen, so will ich es
@@ -244,7 +244,7 @@
 						<lb facs="#facs_2_r3l8" n="N007"/><signed rend="center"><hi rend="italic"
 								>Josephine</hi></signed>
 					</closer>
-					<pb facs="#facs_3" xml:id="LJU296_35_I_P18_003.jpg" n="3"/>
+					<pb facs="#facs_3" xml:id="I1L18P3" n="3"/>
 				</div>
 			</div>
 		</body>

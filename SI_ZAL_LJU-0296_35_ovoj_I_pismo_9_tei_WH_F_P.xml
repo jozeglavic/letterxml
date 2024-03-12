@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1589" lry="2528"
+		<surface start="#I1L9P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1589" lry="2528"
 			corresp="LJU296_35_I_P09_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P09_001.jpg" xml:id="IMAGE.1" width="1589px" height="2528px"/>
 			<zone ulx="19" uly="62" lrx="1561" lry="2243" rendition="TextRegion" xml:id="facs_1_r1">
@@ -105,7 +105,7 @@
 					xml:id="facs_1_r1l22"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3155" lry="2540"
+		<surface start="#I1L9P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3155" lry="2540"
 			corresp="LJU296_35_I_P09_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P09_002.jpg" xml:id="IMAGE.2" width="3155px" height="2540px"/>
 			<zone ulx="44" uly="246" lrx="1589" lry="2464" rendition="TextRegion" xml:id="facs_2_r1">
@@ -157,7 +157,7 @@
 		<body>
 			<div type="letter">
 				<div type="letter">
-					<pb facs="#facs_1" xml:id="LJU296_35_I_P09_001.jpg" n="1"/>
+					<pb facs="#facs_1" xml:id="I1L9P1" n="1"/>
 					<opener>
 						<lb facs="#facs_1_r1l1" n="N001"/><hi rend="underlined">In Eille</hi>
 						<dateline rend="right"><lb facs="#facs_1_r1l2" n="N002"/><placeName
@@ -191,7 +191,7 @@
 						mir <lb facs="#facs_1_r1l20" n="N018"/>vom Gegentheille gaben. <lb
 							facs="#facs_1_r1l22" n="N019"/>Ihrem Wunsche gemäß, berichte ich Ihnen,
 						daß </p>
-					<pb facs="#facs_2" xml:id="LJU296_35_I_P09_002.jpg" n="2"/>
+					<pb facs="#facs_2" xml:id="I1L9P2" n="2"/>
 					<p facs="#facs_2_r1">
 						<lb facs="#facs_2_r1l1" n="N001"/>ich mit meiner geliebten <rs type="person"
 							ref="persName.xml#terezija">Mutter</rs>, <date when="1825-07-16">den

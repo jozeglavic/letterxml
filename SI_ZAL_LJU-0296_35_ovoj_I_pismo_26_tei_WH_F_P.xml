@@ -66,7 +66,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1541" lry="2502"
+		<surface start="#I1L26P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1541" lry="2502"
 			corresp="LJU296_35_I_P26_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P26_001.jpg" xml:id="IMAGE.1" width="1541px" height="2502px"/>
 			<zone ulx="85" uly="26" lrx="1498" lry="2224" rendition="TextRegion" xml:id="facs_1_r1">
@@ -102,7 +102,7 @@
 					xml:id="facs_1_r1l21"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3052" lry="2515"
+		<surface start="#I1L26P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3052" lry="2515"
 			corresp="LJU296_35_I_P26_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P26_002.jpg" xml:id="IMAGE.2" width="3052px" height="2515px"/>
 			<zone ulx="99" uly="575" lrx="1470" lry="2112" rendition="TextRegion" xml:id="facs_2_r1">
@@ -170,7 +170,7 @@
 					xml:id="facs_2_r2l19"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="1540" lry="2507"
+		<surface start="#I1L26P3"  xml:id="facs_3" ulx="0" uly="0" lrx="1540" lry="2507"
 			corresp="LJU296_35_I_P26_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P26_003.jpg" xml:id="IMAGE.3" width="1540px" height="2507px"/>
 		</surface>
@@ -178,7 +178,7 @@
 	<text>
 		<body>
 			<div type="letter">
-				<pb facs="#facs_1" xml:id="LJU296_35_I_P26_001.jpg" n="1"/>
+				<pb facs="#facs_1" xml:id="I1L26P1" n="1"/>
 				<opener>
 					<lb facs="#facs_1_r1l4" n="N001"/><dateline rend="center"><placeName
 							ref="placeName.xml#kranj">Krainbourg</placeName>, <time when="21:00:00"
@@ -214,7 +214,7 @@
 					</choice><note>konjska oprema iz jermena</note>, welches beym Riemer <lb
 						facs="#facs_1_r1l20" n="N017"/>liegt abholen, u zum Bothen tragen, damit <lb
 						facs="#facs_1_r1l21" n="N018"/>er solches mitnihmt, weil ich solches zur </p>
-				<pb facs="#facs_2" xml:id="LJU296_35_I_P26_002.jpg" n="2"/>
+				<pb facs="#facs_2" xml:id="I1L26P2" n="2"/>
 				<p facs="#facs_2_r1">
 					<lb facs="#facs_2_r1l1" n="N001"/>doppelten Bespannung gebrauche, er soll aber
 						<lb facs="#facs_2_r1l2" n="N002"/>noch vor 2 Uhr solches hintragen, weil der
@@ -264,7 +264,7 @@
 						n="N018"/><signed><persName ref="persName.xml#fidelij"
 						>Fidelis</persName></signed>
 				</closer>
-				<pb facs="#facs_3" xml:id="LJU296_35_I_P26_003.jpg" n="3"/>
+				<pb facs="#facs_3" xml:id="I1L26P3" n="3"/>
 			</div>
 		</body>
 	</text>

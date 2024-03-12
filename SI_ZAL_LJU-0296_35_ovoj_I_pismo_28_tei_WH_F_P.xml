@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1533" lry="2503"
+		<surface start="#I1L28P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1533" lry="2503"
 			corresp="LJU296_35_I_P28_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P28_001.jpg" xml:id="IMAGE.1" width="1533px" height="2503px"/>
 			<zone ulx="70" uly="37" lrx="1509" lry="2167" rendition="TextRegion" xml:id="facs_1_r1">
@@ -107,7 +107,7 @@
 					xml:id="facs_1_r1l28"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3052" lry="2513"
+		<surface start="#I1L28P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3052" lry="2513"
 			corresp="LJU296_35_I_P28_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P28_002.jpg" xml:id="IMAGE.2" width="3052px" height="2513px"/>
 			<zone ulx="97" uly="246" lrx="1530" lry="2451" rendition="TextRegion" xml:id="facs_2_r2">
@@ -187,7 +187,7 @@
 					xml:id="facs_2_r3l21"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="1539" lry="2505"
+		<surface start="#I1L28P3"  xml:id="facs_3" ulx="0" uly="0" lrx="1539" lry="2505"
 			corresp="LJU296_35_I_P28_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P28_003.jpg" xml:id="IMAGE.3" width="1539px" height="2505px"/>
 			<zone ulx="57" uly="311" lrx="1514" lry="2498" rendition="TextRegion" xml:id="facs_3_r1">
@@ -233,7 +233,7 @@
 					xml:id="facs_3_r1l24"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_4" ulx="0" uly="0" lrx="1809" lry="3084"
+		<surface start="#I1L28P4"  xml:id="facs_4" ulx="0" uly="0" lrx="1809" lry="3084"
 			corresp="LJU296_35_I_P28_004.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P28_004.jpg" xml:id="IMAGE.4" width="1809px" height="3084px"/>
 		</surface>
@@ -241,7 +241,7 @@
 	<text>
 		<body>
 			<div type="letter">
-				<pb facs="#facs_1" xml:id="LJU296_35_I_P28_001.jpg" n="1"/>
+				<pb facs="#facs_1" xml:id="I1L28P1" n="1"/>
 				<opener>
 					<lb facs="#facs_1_r1l7" n="N001"/><dateline><date when="1826-08-16">Am 16<hi
 								rend="superscript">ten</hi> August 1826</date>: <time
@@ -276,7 +276,7 @@
 						družba Slovenije, http://www.vinskadruzba.si/za-navdusence/vinske-sorte/
 						[26.1.2018])</note>, den ich mitnahm <lb facs="#facs_1_r1l28" n="N019"/>ich
 					konnte eine andere Sorte nicht früher </p>
-				<pb facs="#facs_2" xml:id="LJU296_35_I_P28_002.jpg" n="2"/>
+				<pb facs="#facs_2" xml:id="I1L28P2" n="2"/>
 				<p facs="#facs_2_r2">
 					<lb facs="#facs_2_r2l1" n="N001"/>bekommen, doch meine <persName
 						ref="persName.xml#josephine">Pepi</persName> wird ja nicht <lb
@@ -338,7 +338,7 @@
 							ref="persName.xml#fidelij">Fidelis</persName></hi> früher mit aller
 					Liebe <lb facs="#facs_2_r3l21" n="N020"/>umarmen kann. O, <hi rend="italic"
 							><placeName ref="placeName.xml#trst">Triest</placeName></hi> wie satt </p>
-				<pb facs="#facs_3" xml:id="LJU296_35_I_P28_003.jpg" n="3"/>
+				<pb facs="#facs_3" xml:id="I1L28P3" n="3"/>
 				<p facs="#facs_3_r1">
 					<lb facs="#facs_3_r1l1" n="N001"/>mir dieser Ort ist, besonders ohne Dir <lb
 						facs="#facs_3_r1l2" n="N002"/>dieß kann ich Dir gar nicht sagen, eine <lb
@@ -369,7 +369,7 @@
 							>Adieu</hi> lieber Engel. <lb facs="#facs_3_r1l24" n="N023"/>meine Grüß
 						an Alle !</salute>
 				</closer>
-				<pb facs="#facs_4" xml:id="LJU296_35_I_P28_004.jpg" n="4"/>
+				<pb facs="#facs_4" xml:id="I1L28P4" n="4"/>
 			</div>
 		</body>
 	</text>

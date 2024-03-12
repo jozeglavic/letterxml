@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1541" lry="2500"
+		<surface start="#I1L4P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1541" lry="2500"
 			corresp="LJU296_35_I_P04_001.jpg">
 			<graphic mimeType="image/jpeg" url="file:///LJU296_35_I_P04_001.jpg" xml:id="IMAGE.1"/>
 			<zone ulx="71" uly="62" lrx="1514" lry="2395" rendition="TextRegion" xml:id="facs_1_r1">
@@ -107,7 +107,7 @@
 			<zone ulx="1504" uly="1498" lrx="1520" lry="1654" rendition="TextRegion"
 				xml:id="facs_1_r2"> </zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3079" lry="2504"
+		<surface start="#I1L4P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3079" lry="2504"
 			corresp="LJU296_35_I_P04_002.jpg">  <graphic mimeType="image/jpeg"
 				url="file:///LJU296_35_I_P04_002.jpg" xml:id="IMAGE.2"/>
 			<zone ulx="47" uly="101" lrx="1529" lry="2447" rendition="TextRegion" xml:id="facs_2_r1">
@@ -211,7 +211,7 @@
 		<body>
 			<div type="letter">
 				<div type="letter">
-					<pb facs="#facs_1" xml:id="LJU296_35_I_P04_001.jpg" n="1"/>
+					<pb facs="#facs_1" xml:id="I1L4P1" n="1"/>
 					<opener rend="center"><salute><lb facs="#facs_1_r1l3" n="N001"/>Mein stolzer
 							Herr!</salute></opener>
 					<p facs="#facs_1_r1">
@@ -235,7 +235,7 @@
 						daß Sie uns würck <lb facs="#facs_1_r1l18" n="N016"/>lich nicht gesehen
 						haben, bin ich aber ganz wie <lb facs="#facs_1_r1l19" n="N017"/>der gut, und
 						ich eille Ihnen schnell wieder </p>
-					<pb facs="#facs_2" xml:id="LJU296_35_I_P04_002.jpg" n="2"/>
+					<pb facs="#facs_2" xml:id="I1L4P2" n="2"/>
 					<p facs="#facs_2_r1">
 						<lb facs="#facs_2_r1l2" n="N001"/>einen andern Titel zu geben. <hi
 							rend="italic"><lb facs="#facs_2_r1l3" n="N002"/>Mein lieber theurer

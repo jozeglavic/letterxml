@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1537" lry="2475"
+		<surface start="#I1L19P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1537" lry="2475"
 			corresp="LJU296_35_I_P19_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P19_001.jpg" xml:id="IMAGE.1" width="1537px" height="2475px"/>
 			<zone ulx="151" uly="852" lrx="202" lry="1024" rendition="TextRegion" xml:id="facs_1_r1"> </zone>
@@ -98,7 +98,7 @@
 					xml:id="facs_1_r2l14"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3069" lry="2492"
+		<surface start="#I1L19P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3069" lry="2492"
 			corresp="LJU296_35_I_P19_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P19_002.jpg" xml:id="IMAGE.2" width="3069px" height="2492px"/>
 			<zone ulx="165" uly="577" lrx="1541" lry="2046" rendition="TextRegion"
@@ -163,7 +163,7 @@
 					xml:id="facs_2_r2l19"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="1541" lry="2488"
+		<surface start="#I1L19P3"  xml:id="facs_3" ulx="0" uly="0" lrx="1541" lry="2488"
 			corresp="LJU296_35_I_P19_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P19_003.jpg" xml:id="IMAGE.3" width="1541px" height="2488px"/>
 			<zone ulx="90" uly="1405" lrx="102" lry="1558" rendition="TextRegion" xml:id="facs_3_r1"> </zone>
@@ -212,7 +212,7 @@
 	<text>
 		<body>
 			<div type="letter">
-				<pb facs="#facs_1" xml:id="LJU296_35_I_P19_001.jpg" n="1"/>
+				<pb facs="#facs_1" xml:id="I1L19P1" n="1"/>
 				<opener>
 					<lb facs="#facs_1_r2l2" n="N001"/><salute rend="italic-center">Meine gute
 						theuerste geliebte <lb facs="#facs_1_r2l3" n="N002"/><hi rend="italic"
@@ -232,7 +232,7 @@
 					diese Art erst heute Ihren <lb facs="#facs_1_r2l12" n="N011"/>Wunsch volziehen
 					kann. <lb facs="#facs_1_r2l13" n="N012"/>— <lb facs="#facs_1_r2l14" n="N013"/>Im
 					Betreff der angedeuteten Sache </p>
-				<pb facs="#facs_2" xml:id="LJU296_35_I_P19_002.jpg" n="2"/>
+				<pb facs="#facs_2" xml:id="I1L19P2" n="2"/>
 				<p facs="#facs_2_r1">
 					<lb facs="#facs_2_r1l1" n="N001"/>rechne ich mir zur Ehre, daß das be <lb
 						facs="#facs_2_r1l2" n="N002"/>wußte <choice>
@@ -268,7 +268,7 @@
 						facs="#facs_2_r2l18" n="N015"/>dieß, Nichtseynkönnen, wie ich hoffe <lb
 						facs="#facs_2_r2l19" n="N016"/>keinen Verdruß nach sich ziehen<add>.</add>
 				</p>
-				<pb facs="#facs_3" xml:id="LJU296_35_I_P19_003.jpg" n="3"/>
+				<pb facs="#facs_3" xml:id="I1L19P3" n="3"/>
 				<p facs="#facs_3_r4">
 					<lb facs="#facs_3_r4l1" n="N001"/>Ich hoffe, es wird dem Brautpaare <lb
 						facs="#facs_3_r4l2" n="N002"/>an den dazu <choice>

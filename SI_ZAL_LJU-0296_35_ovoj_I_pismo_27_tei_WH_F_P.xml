@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1543" lry="2497"
+		<surface start="#I1L27P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1543" lry="2497"
 			corresp="LJU296_35_I_P27_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P27_001.jpg" xml:id="IMAGE.1" width="1543px" height="2497px"/>
 			<zone ulx="98" uly="60" lrx="1515" lry="2253" rendition="TextRegion" xml:id="facs_1_r1">
@@ -102,7 +102,7 @@
 					xml:id="facs_1_r1l19"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3068" lry="2506"
+		<surface start="#I1L27P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3068" lry="2506"
 			corresp="LJU296_35_I_P27_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P27_002.jpg" xml:id="IMAGE.2" width="3068px" height="2506px"/>
 			<zone ulx="80" uly="568" lrx="1532" lry="2294" rendition="TextRegion" xml:id="facs_2_r1">
@@ -135,7 +135,7 @@
 	<text>
 		<body>
 			<div type="letter">
-				<pb facs="#facs_1" xml:id="LJU296_35_I_P27_001.jpg" n="1"/>
+				<pb facs="#facs_1" xml:id="I1L27P1" n="1"/>
 				<opener>
 					<salute><lb facs="#facs_1_r1l3" n="N001"/><hi rend="italic">Meine
 							Herzensgeliebte <lb facs="#facs_1_r1l4" n="N002"/><persName
@@ -160,7 +160,7 @@
 						facs="#facs_1_r1l18" n="N016"/>Gestern war ich bey meinen besten <lb
 						facs="#facs_1_r1l19" n="N017"/>Freund <persName ref="persName.xml#urbančič"
 						>Urbantschisch</persName>, wo ich Gelegenheit </p>
-				<pb facs="#facs_2" xml:id="LJU296_35_I_P27_002.jpg" n="2"/>
+				<pb facs="#facs_2" xml:id="I1L27P2" n="2"/>
 				<p facs="#facs_2_r1">
 					<lb facs="#facs_2_r1l1" n="N001"/>hat, die noch für uns aufgebettenen <lb
 						facs="#facs_2_r1l2" n="N002"/><choice>

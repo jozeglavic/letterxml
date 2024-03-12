@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1515" lry="2471"
+		<surface start="#I1L12P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1515" lry="2471"
 			corresp="LJU296_35_I_P12_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P12_001.jpg" xml:id="IMAGE.1" width="1515px" height="2471px"/>
 			<zone ulx="30" uly="85" lrx="1491" lry="2324" rendition="TextRegion" xml:id="facs_1_r2">
@@ -102,7 +102,7 @@
 					xml:id="facs_1_r2l18"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3019" lry="2492"
+		<surface start="#I1L12P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3019" lry="2492"
 			corresp="LJU296_35_I_P12_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P12_002.jpg" xml:id="IMAGE.2" width="3019px" height="2492px"/>
 			<zone ulx="63" uly="227" lrx="1506" lry="2438" rendition="TextRegion" xml:id="facs_2_r2">
@@ -179,7 +179,7 @@
 					xml:id="facs_2_r3l18"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="1522" lry="2474"
+		<surface start="#I1L12P3"  xml:id="facs_3" ulx="0" uly="0" lrx="1522" lry="2474"
 			corresp="LJU296_35_I_P12_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P12_003.jpg" xml:id="IMAGE.3" width="1522px" height="2474px"/>
 			<zone ulx="56" uly="151" lrx="1498" lry="2461" rendition="TextRegion" xml:id="facs_3_r1">
@@ -227,7 +227,7 @@
 		<body>
 			<div type="letter">
 				<div type="letter">
-					<pb facs="#facs_1" xml:id="LJU296_35_I_P12_001.jpg" n="1"/>
+					<pb facs="#facs_1" xml:id="I1L12P1" n="1"/>
 					<opener>
 						<dateline rend="right"><lb facs="#facs_1_r2l1" n="N001"/><placeName
 								ref="placeName.xml#belanakoroškem">Felach</placeName> den <date
@@ -254,7 +254,7 @@
 						hatte? — <lb facs="#facs_1_r2l17" n="N016"/>Ich bin von zwey Seiten, so
 						gequällt, daß <lb facs="#facs_1_r2l18" n="N017"/>ich es gar nicht
 						aussprechen kann. Sie leidend </p>
-					<pb facs="#facs_2" xml:id="LJU296_35_I_P12_002.jpg" n="2"/>
+					<pb facs="#facs_2" xml:id="I1L12P2" n="2"/>
 					<p facs="#facs_2_r2">
 						<lb facs="#facs_2_r2l1" n="N001"/>zu wissen, und nicht zu Ihrem Troste <lb
 							facs="#facs_2_r2l2" n="N002"/>beytragen zu können. — Meine <rs
@@ -300,7 +300,7 @@
 						könnte ich hier <lb facs="#facs_2_r3l17" n="N017"/> leben. — Sie sollten mir
 						wohl, so oft <lb facs="#facs_2_r3l18" n="N018"/>es seyn kann, schreiben, —
 						ich thue es </p>
-					<pb facs="#facs_3" xml:id="LJU296_35_I_P12_003.jpg" n="3"/>
+					<pb facs="#facs_3" xml:id="I1L12P3" n="3"/>
 					<p facs="#facs_3_r1">
 						<lb facs="#facs_3_r1l1" n="N001"/>ja auch.— <lb facs="#facs_3_r1l2" n="N002"
 						/>O! wehe! ich wollte noch recht lange <lb facs="#facs_3_r1l4" n="N003"/>mit

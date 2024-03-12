@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1494" lry="2388"
+		<surface start="#I1L11P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1494" lry="2388"
 			corresp="LJU296_35_I_P11_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P11_001.jpg" xml:id="IMAGE.1" width="1494px" height="2388px"/>
 			<zone ulx="29" uly="112" lrx="1445" lry="2187" rendition="TextRegion" xml:id="facs_1_r1">
@@ -106,7 +106,7 @@
 					xml:id="facs_1_r1l23"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="2932" lry="2404"
+		<surface start="#I1L11P21"  xml:id="facs_2" ulx="0" uly="0" lrx="2932" lry="2404"
 			corresp="LJU296_35_I_P11_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P11_002.jpg" xml:id="IMAGE.2" width="2932px" height="2404px"/>
 			<zone ulx="42" uly="2272" lrx="102" lry="2403" rendition="TextRegion" xml:id="facs_2_r1"> </zone>
@@ -187,7 +187,7 @@
 					xml:id="facs_2_r3l19"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="2936" lry="2393"
+		<surface start="#I1L11P3"  xml:id="facs_3" ulx="0" uly="0" lrx="2936" lry="2393"
 			corresp="LJU296_35_I_P11_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P11_003.jpg" xml:id="IMAGE.3" width="2936px" height="2393px"/>
 			<zone ulx="42" uly="123" lrx="1476" lry="2379" rendition="TextRegion" xml:id="facs_3_r1">
@@ -254,7 +254,7 @@
 					xml:id="facs_3_r2l12"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_4" ulx="0" uly="0" lrx="2914" lry="2395"
+		<surface start="#I1L11P4"  xml:id="facs_4" ulx="0" uly="0" lrx="2914" lry="2395"
 			corresp="LJU296_35_I_P11_004.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P11_004.jpg" xml:id="IMAGE.4" width="2914px" height="2395px"/>
 			<zone ulx="1484" uly="63" lrx="2880" lry="2293" rendition="TextRegion"
@@ -301,7 +301,7 @@
 					xml:id="facs_4_r1l31"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_5" ulx="0" uly="0" lrx="1487" lry="2397"
+		<surface start="#I1L11P5"  xml:id="facs_5" ulx="0" uly="0" lrx="1487" lry="2397"
 			corresp="LJU296_35_I_P11_005.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P11_005.jpg" xml:id="IMAGE.5" width="1487px" height="2397px"/>
 			<zone ulx="34" uly="164" lrx="1450" lry="2367" rendition="TextRegion" xml:id="facs_5_r1">
@@ -351,7 +351,7 @@
 		<body>
 			<div type="letter">
 				<div type="letter">
-					<pb facs="#facs_1" xml:id="LJU296_35_I_P11_001.jpg" n="1"/>
+					<pb facs="#facs_1" xml:id="I1L11P1" n="1"/>
 					<opener>
 						<dateline rend="right"><lb facs="#facs_1_r1l1" n="N001"/><placeName
 								ref="placeName.xml#belanakoroškem"><choice>
@@ -387,7 +387,7 @@
 							type="person" ref="persName.xml#blažterpinc">Vater</rs>, war vielleicht
 						auch ungehalten über Ihr <lb facs="#facs_1_r1l23" n="N020"/>verzügertes
 						Ausbleiben? In Betreff der </p>
-					<pb facs="#facs_2" xml:id="LJU296_35_I_P11_002.jpg" n="2"/>
+					<pb facs="#facs_2" xml:id="I1L11P2" n="2"/>
 					<p facs="#facs_2_r2">
 						<lb facs="#facs_2_r2l1" n="N001"/>Schwester bin ich aber gar entsetzlich in
 						Sorgen, <lb facs="#facs_2_r2l2" n="N002"/> ich wäre untrostlich, wenn die
@@ -435,7 +435,7 @@
 							<lb facs="#facs_2_r3l17" n="N017"/>beßer, und dann — O! Gott! — <lb
 							facs="#facs_2_r3l18" n="N018"/>Sie haben eine Schwester verlohren, <lb
 							facs="#facs_2_r3l19" n="N019"/>aber ich will sie Ihnen ersetzen, Sie </p>
-					<pb facs="#facs_3" xml:id="LJU296_35_I_P11_003.jpg" n="3"/>
+					<pb facs="#facs_3" xml:id="I1L11P3" n="3"/>
 					<p facs="#facs_3_r1">
 						<lb facs="#facs_3_r1l1" n="N001"/>sollen sehen, wie ich nur für Sie auf <lb
 							facs="#facs_3_r1l2" n="N002"/>dieser Welt seyn will, ach! ich liebe Sie
@@ -480,7 +480,7 @@
 							so thun <lb facs="#facs_3_r2l11" n="N011"/>Sie es in keinen Falle, es
 							könte <lb facs="#facs_3_r2l12" n="N012"/>Ihrer Gesundheit schaden.— </p>
 					</postscript>
-					<pb facs="#facs_4" xml:id="LJU296_35_I_P11_004.jpg" n="4"/>
+					<pb facs="#facs_4" xml:id="I1L11P4" n="4"/>
 					<postscript>
 						<p facs="#facs_4_r1">
 							<lb facs="#facs_4_r1l2" n="N001"/>Ob Sie wohl an Ihre arme <persName
@@ -509,7 +509,7 @@
 							Herz versprengen. Nein! <lb facs="#facs_4_r1l31" n="N020"/>mein
 								<persName ref="persName.xml#fidelij">Fidel</persName> warum bin ich
 							nicht bey </p>
-						<pb facs="#facs_5" xml:id="LJU296_35_I_P11_005.jpg" n="5"/>
+						<pb facs="#facs_5" xml:id="I1L11P5" n="5"/>
 						<p facs="#facs_5_r1">
 							<lb facs="#facs_5_r1l1" n="N001"/>Ihnen, Sie Armer, wie müssen Sie
 							leiden, <lb facs="#facs_5_r1l2" n="N002"/>aber auch ich, o gewiß auch

@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1543" lry="2502"
+		<surface start="#I1L8P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1543" lry="2502"
 			corresp="LJU296_35_I_P08_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P08_001.jpg" xml:id="IMAGE.1" width="1543px" height="2502px"/>
 			<zone ulx="163" uly="0" lrx="1513" lry="2130" rendition="TextRegion" xml:id="facs_1_r1">
@@ -97,7 +97,7 @@
 					xml:id="facs_1_r1l16"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3068" lry="2504"
+		<surface start="#I1L8P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3068" lry="2504"
 			corresp="LJU296_35_I_P08_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P08_002.jpg" xml:id="IMAGE.2" width="3068px" height="2504px"/>
 			<zone ulx="161" uly="785" lrx="1515" lry="2058" rendition="TextRegion"
@@ -149,7 +149,7 @@
 					xml:id="facs_2_r2l12"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_3" ulx="0" uly="0" lrx="1541" lry="2500"
+		<surface start="#I1L8P3"  xml:id="facs_3" ulx="0" uly="0" lrx="1541" lry="2500"
 			corresp="LJU296_35_I_P08_003.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P08_003.jpg" xml:id="IMAGE.3" width="1541px" height="2500px"/>
 			<zone ulx="78" uly="735" lrx="1505" lry="1442" rendition="TextRegion" xml:id="facs_3_r1">
@@ -175,7 +175,7 @@
 		<body>
 			<div type="letter">
 				<div type="letter">
-					<pb facs="#facs_1" xml:id="LJU296_35_I_P08_001.jpg" n="1"/>
+					<pb facs="#facs_1" xml:id="I1L8P1" n="1"/>
 					<opener rend="center"><salute><lb facs="#facs_1_r1l4" n="N001"/><hi
 								rend="italic">Meine holde!</hi>
 							<lb facs="#facs_1_r1l5" n="N002"/><hi rend="italic">Meine geliebte
@@ -195,7 +195,7 @@
 						deutlich genug von der reinsten <lb facs="#facs_1_r1l15" n="N012"
 						/>aufrichtigsten Liebe überzeugen,— <lb facs="#facs_1_r1l16" n="N013"/>und
 						doch bin ich, in Ihrer holden Umgebung </p>
-					<pb facs="#facs_2" xml:id="LJU296_35_I_P08_002.jpg" n="2"/>
+					<pb facs="#facs_2" xml:id="I1L8P2" n="2"/>
 					<p facs="#facs_2_r1">
 						<lb facs="#facs_2_r1l1" n="N001"/>so Wörterlos — obwohl mich aus <hi
 							rend="italic">Ihren</hi> göttlichen <lb facs="#facs_2_r1l2" n="N002"
@@ -229,7 +229,7 @@
 						<lb facs="#facs_2_r2l12" n="N010"/><dateline rend="left"><placeName
 								ref="placeName.xml#kranj">Krainburg</placeName> am <date
 								when="1825-06-21">21t Juny 1825.</date></dateline></closer>
-					<pb facs="#facs_3" xml:id="LJU296_35_I_P08_003.jpg" n="3"/>
+					<pb facs="#facs_3" xml:id="I1L8P3" n="3"/>
 					<postscript>
 						<p facs="#facs_3_r1">
 							<lb facs="#facs_3_r1l1" n="N001"/><choice>

@@ -67,7 +67,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile>
-		<surface xml:id="facs_1" ulx="0" uly="0" lrx="1524" lry="2497"
+		<surface start="#I1L15P1"  xml:id="facs_1" ulx="0" uly="0" lrx="1524" lry="2497"
 			corresp="LJU296_35_I_P15_001.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P15_001.jpg" xml:id="IMAGE.1" width="1524px" height="2497px"/>
 			<zone points="28,72 28,2199 1488,2199 1488,72" rendition="TextRegion" xml:id="facs_1_r1">
@@ -118,7 +118,7 @@
 					rendition="Line" xml:id="facs_1_r1l16"/>
 			</zone>
 		</surface>
-		<surface xml:id="facs_2" ulx="0" uly="0" lrx="3028" lry="2503"
+		<surface start="#I1L15P2"  xml:id="facs_2" ulx="0" uly="0" lrx="3028" lry="2503"
 			corresp="LJU296_35_I_P15_002.jpg">
 			<graphic mimeType="image/jpeg" url="LJU296_35_I_P15_002.jpg" xml:id="IMAGE.2" width="3028px" height="2503px"/>
 			<zone points="47,0 47,2128 1514,2128 1514,0" rendition="TextRegion" xml:id="facs_2_r1">
@@ -190,7 +190,7 @@
 		<body>
 			<div type="letter">
 				<div type="letter">
-					<pb facs="#facs_1" xml:id="LJU296_35_I_P15_001.jpg" n="1"/>
+					<pb facs="#facs_1" xml:id="I1L15P1" n="1"/>
 					<opener>
 						<salute><lb facs="#facs_1_r1l2" n="N001"/><hi rend="italic">Mein guter,
 								geliebter <persName ref="persName.xml#fidelij"
@@ -213,7 +213,7 @@
 						befolgen wollen, so <lb facs="#facs_1_r1l15" n="N014"/>müssen Sie uns (was
 						man zu sagen pflegt) <lb facs="#facs_1_r1l16" n="N015"/>als wahre Freunde
 						bewirthen; gar nicht </p>
-					<pb facs="#facs_2" xml:id="LJU296_35_I_P15_002.jpg" n="2"/>
+					<pb facs="#facs_2" xml:id="I1L15P2" n="2"/>
 					<p facs="#facs_2_r1">
 						<lb facs="#facs_2_r1l2" n="N001"/>von Ihrer gewöhnlicher Ordnung abweichen,
 						— <lb facs="#facs_2_r1l3" n="N002"/>denn, sobald die <rs type="person"
